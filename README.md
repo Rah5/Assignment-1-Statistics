@@ -1,2 +1,2 @@
-# Assignment-1-Statistics
+# Assignment-2-Statistics
 Statistics assignment 
